@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\statemaster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\statemaster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\vegregistration\\veg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\vegregistration\\veg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\jscommon\\cvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\jscommon\\cvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\vegtablesupermarket\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\vegtablesupermarket.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\vegtablesupermarket.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\statemaster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\statemaster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\model\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\model\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|c:\\users\\snafa\\source\\repos\\vegtablesupermarket\\vegtablesupermarket\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7682DB18-559B-45D9-A317-B3C824B2C102}|VegtableSuperMarket\\VegtableSuperMarket.csproj|solutionrelative:vegtablesupermarket\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\JSCommon\\Cvalidation.cs",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\JSCommon\\Cvalidation.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\JSCommon\\Cvalidation.cs",
+              "RelativeToolTip": "VegtableSuperMarket\\JSCommon\\Cvalidation.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:46:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateMaster.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\StateMaster.xaml.cs",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\StateMaster.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\StateMaster.xaml.cs",
+              "RelativeToolTip": "VegtableSuperMarket\\StateMaster.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:05:03.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VegtableSuperMarket",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\VegtableSuperMarket.csproj",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\VegtableSuperMarket.csproj",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\VegtableSuperMarket.csproj",
+              "RelativeToolTip": "VegtableSuperMarket\\VegtableSuperMarket.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T09:00:41.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Properties\\Settings.settings",
+              "RelativeToolTip": "VegtableSuperMarket\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-12-20T09:00:52.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Registration.xaml",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\Registration.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Registration.xaml",
+              "RelativeToolTip": "VegtableSuperMarket\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T14:09:38.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Registration.xaml.cs",
+              "RelativeToolTip": "VegtableSuperMarket\\Registration.xaml.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAAOgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:34:26.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "veg.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Vegregistration\\veg.cs",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\Vegregistration\\veg.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Vegregistration\\veg.cs",
+              "RelativeToolTip": "VegtableSuperMarket\\Vegregistration\\veg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:40:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateMaster.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\StateMaster.xaml",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\StateMaster.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\StateMaster.xaml",
+              "RelativeToolTip": "VegtableSuperMarket\\StateMaster.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T17:36:40.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "VegtableSuperMarket\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:04:29.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Model\\Registration.cs",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\Model\\Registration.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\Model\\Registration.cs",
+              "RelativeToolTip": "VegtableSuperMarket\\Model\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:26:18.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\MainWindow.xaml",
+              "RelativeToolTip": "VegtableSuperMarket\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T14:08:31.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\HomePage.xaml",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\HomePage.xaml",
+              "RelativeToolTip": "VegtableSuperMarket\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T14:07:34.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\App.xaml",
+              "RelativeDocumentMoniker": "VegtableSuperMarket\\App.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\VegtableSuperMarket\\VegtableSuperMarket\\App.xaml",
+              "RelativeToolTip": "VegtableSuperMarket\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T14:07:15.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

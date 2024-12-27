@@ -1,0 +1,69 @@
+﻿<Window x:Class="VegtableSuperMarket.StateMaster"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VegtableSuperMarket"
+        mc:Ignorable="d"
+        Title="StateMaster" Height="450" Width="400">
+
+
+    <DockPanel HorizontalAlignment="Center" Margin="0 20 0 20">
+ 
+
+
+
+
+    <Grid>
+        <StackPanel>
+
+            <Image Source="C:\Users\snafa\source\repos\VegtableSuperMarket\VegtableSuperMarket\Images\veg8.jpg" Height="50" VerticalAlignment="Top" HorizontalAlignment="Center" >
+            </Image>
+        </StackPanel>
+        <StackPanel Margin="40 50 40 30">
+
+            <TextBlock x:Name="txtblklogin" Text="State Master" FontSize="17" Margin="0 0 0 0" FontWeight="Bold" Padding="5" HorizontalAlignment="Center"></TextBlock>
+
+
+            <TextBlock x:Name="txtblkstate" Text="State" FontSize="13" Padding="5" HorizontalAlignment="Left" Margin="0 0 0 0" Foreground="#6a6f6c" FontWeight="Normal"></TextBlock>
+            <TextBox x:Name="txtstate"  HorizontalAlignment="Left" Margin="0 0 0 10" FontSize="14" Width="300" Height="25" BorderBrush="#27ae60" BorderThickness="0 0 0 1"></TextBox>
+
+
+              
+
+                <Button x:Name="btnadd" Margin="0 20 0 0"  Content="Add"  Padding="1" HorizontalAlignment="Left" Foreground="#fff" FontWeight="Bold" Click="btnadd_Click">
+
+                <!--<Button.Style>
+                 <Style>
+                     <Setter Property="Button.Foreground" Value="#fff"></Setter>
+                 </Style>
+             </Button.Style>-->
+
+
+
+
+
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"></Setter>
+                    </Style>
+
+                </Button.Resources>
+
+
+            </Button>
+
+            <Button x:Name="btnback" Margin="0 0 0 0" Height="30" Width="300" Content="Back" FontWeight="Normal" Padding="1" HorizontalAlignment="Left" Foreground="Black" BorderThickness="0 0 0 0" Background="White"></Button>
+
+
+
+
+
+
+
+        </StackPanel>
+    </Grid>
+    </DockPanel>
+
+   
+</Window>
